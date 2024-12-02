@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
     <title>Моят GitHub сайт</title>
 </head>
 <body>
-    <h1>Добре дошли на моя сайт в GitHub!</h1>
-    <p>Това е пример за сайт, хостван на GitHub Pages.</p>
+    <h1>ОПЕЛ Корсав GitHub!</h1>
+    <p>Vasko qde pishki  .</p>
 </body>
-</html>
+</html>https://tse2.mm.bing.net/th?id=OIP.mMYrOwsFF5BIYNkjARkODAHaFj&pid=Api&P=0&h=220
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: red;
     margin: 0;
     padding: 0;
 }
@@ -37,3 +37,5 @@ document.addEventListener("DOMContentLoaded", function() {
     alert("Безплатна ракия!");
 });
 https://<vasko.emo>.github.io/<Penevdobrev>
+https://yourusername.github.io/my-website
+
