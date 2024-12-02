@@ -18,13 +18,14 @@ You can click the Preview link to take a look at your changes.
     <title>Моят GitHub сайт</title>
 </head>
 <body>
-    <h1>ОПЕЛ Корсав GitHub!</h1>
+    <h1>ОПЕЛ Корса GitHub!</h1>
     <p>Vasko qde pishki  .</p>
 </body>
 </html>https://tse2.mm.bing.net/th?id=OIP.mMYrOwsFF5BIYNkjARkODAHaFj&pid=Api&P=0&h=220
 body {
     font-family: Arial, sans-serif;
-    background-color: red;
+    background-color: ;![100-2659-1446716394722378581](https://github.com/user-attachments/assets/6f68f3ba-949e-4668-ba28-f1e1fe098bb9)
+
     margin: 0;
     padding: 0;
 }
